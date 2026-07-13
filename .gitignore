@@ -1,1 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
 
+*.h5
+*.keras
+
+dataset/
+generated_data/
+organized_dataset/
+ldm_augmented/
+
+*.zip
+
+.env
