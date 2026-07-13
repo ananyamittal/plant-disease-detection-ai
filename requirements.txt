@@ -1,1 +1,13 @@
-
+tensorflow
+numpy
+opencv-python
+matplotlib
+scikit-learn
+pillow
+diffusers
+torch
+transformers
+accelerate
+lime
+scikit-image
+seaborn
